@@ -1,6 +1,3 @@
 #!/bin/bash
 
-mkdir test
-cd test 
-touch test.txt
-echo "hi there " >> test.txt
+echo "yes i will do it" >> /var/www/html
